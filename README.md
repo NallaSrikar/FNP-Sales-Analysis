@@ -124,4 +124,4 @@ Improve marketing and sales strategies
 
 ## **🖼️ Dashboard Preview**
 
-
+![dashboard](images/Dashboard.PNG)
